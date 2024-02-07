@@ -169,7 +169,7 @@ video {
 
     botao {
         max-width: 600px;
-        min-width: 200px;
+        min-width: 300px;
         font-size: 20px;
     }
 }
