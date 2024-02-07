@@ -109,6 +109,16 @@ button {
     border-radius: 5px;
 }
 
+.aju {
+    max-width: 600px;
+    min-width: 200px;
+}
+
+.botao {
+    max-width: 600px;
+    min-width: 200px;
+}
+
 video {
     margin-bottom: 15px;
     min-width: 300px;
