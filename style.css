@@ -117,6 +117,7 @@ button {
 }
 
 .botao {
+    text-align: center;
     margin-top: 40px;
     background: rgb(236, 5, 5);
     border-radius: 20.5px;
